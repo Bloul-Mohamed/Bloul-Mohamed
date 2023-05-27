@@ -28,7 +28,7 @@
 
 <img align=“right” alt=“coding” width=“1000” src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-**`🇩🇿🇵🇸🇩🇿🇵🇸A am Python developer from Algeria🇩🇿🇵🇸🇩🇿`** 
+# **`🇩🇿🇵🇸🇩🇿🇵🇸A am Python developer from Algeria🇩🇿🇵🇸🇩🇿`** 
 
 
 - **`🔭 I’m currently working on Codezilla cours`** 
