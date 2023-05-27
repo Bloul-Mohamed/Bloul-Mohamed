@@ -2,19 +2,19 @@
 
 **`Digital Craftsman (Developer)`**
  <p align="left">
-      <a href="https://myaccount.google.com/?hl=ar&utm_source=OGB&utm_medium=act">
+      <a href="">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="">
          <img alt="followers" title="Follow me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="">
          <img alt="followers" title="Follow me on WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://discord.gg/z3ZjQhX7">
          <img alt="followers" title="Follow me on Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.facebook.com/moh.mohamede.7">
          <img alt="followers" title="Follow me on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://instagram.com/hiko_dz">
          <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.tiktok.com/@code.1001">
          <img alt="followers" title="Follow me on TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
       <a href="https://github.com/hikodz?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hikodz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
