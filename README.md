@@ -1,4 +1,4 @@
-#   **`🇩🇿🇵🇸Mohamed Rida🇩🇿🇵🇸`**
+#   **`🇵🇸Mohamed Rida🇩🇿`**
 
 **`Digital Craftsman (Developer)`**
  <p align="left">
