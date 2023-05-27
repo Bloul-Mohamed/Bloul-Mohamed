@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences in cours codezilla
 
-- ⚡ Fun fact **I Think I'm Funny**
+- ⚡ Fun fact **I Think I'm Funny** 😅😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
