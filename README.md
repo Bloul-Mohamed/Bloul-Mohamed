@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mohamed Rida 🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸
+# 🏄‍♂️ Mohamed Rida 🇩🇿🇵🇸🇩🇿
 
 **`Digital Craftsman (Developer)`**
  <p align="left">
@@ -22,44 +22,14 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hikodz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       
    </p>
-#
 
-
-
-### 📺 Latest TIKTOK Videos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-
-
-[![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "The Making of GNU: The World's First Open-Source Software")](https://www.tiktok.com/@code.1001/video/7235749467322912005?is_from_webapp=1&sender_device=pc&web_id=7168843359170692614)
-[![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=291 "AI bots were given freedom in a virtual city…")](https://www.tiktok.com/@code.1001/video/7234669300324322566?is_from_webapp=1&sender_device=pc&web_id=7168843359170692614)
-[![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Elon Musk is building TruthGPT…")](https://www.tiktok.com/@code.1001/video/7235683559003000069?is_from_webapp=1&sender_device=pc&web_id=7168843359170692614)
-<!-- END YOUTUBE-CARDS -->
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸Hi 👋, I'm Mohamed🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸</h1>
+<h1 align="center">🇩🇿🇵🇸🇩🇿Hi 👋, I'm Mohamed🇩🇿🇵🇸🇩🇿</h1>
 
 <img align=“right” alt=“coding” width=“1000” src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-<h3 align="center">🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸A am Python developer from Algeria🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸🇩🇿🇵🇸</h3>
+<h3 align="center">🇩🇿🇵🇸🇩🇿🇵🇸A am Python developer from Algeria🇩🇿🇵🇸🇩🇿</h3>
 
 
 - 🔭 I’m currently working on **Codezilla cours**
