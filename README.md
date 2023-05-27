@@ -2,9 +2,9 @@
 
 **`Digital Craftsman (Developer)`**
  <p align="left">
-      <a href="">
+      <a href="https://linktr.ee/code.1001">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="">
+      <a href="https://linktr.ee/code.1001">
          <img alt="followers" title="Follow me on WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
       <a href="https://discord.gg/z3ZjQhX7">
          <img alt="followers" title="Follow me on Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -54,9 +54,9 @@
 
 <p align="left">
 <p align="left">
-      <a href="">
+      <a href="https://linktr.ee/code.1001">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="">
+      <a href="https://linktr.ee/code.1001">
          <img alt="followers" title="Follow me on WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
       <a href="https://discord.gg/z3ZjQhX7">
          <img alt="followers" title="Follow me on Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
