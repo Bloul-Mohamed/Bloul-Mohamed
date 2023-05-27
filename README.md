@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Instegram,Facebook,Tiktok**
 
-- 📄 Know about my experiences [in cours codezilla](in cours codezilla)
+- 📄 Know about my experiences in cours codezilla
 
 - ⚡ Fun fact **I Think I'm Funny**
 
