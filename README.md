@@ -24,17 +24,11 @@
    </p>
 #
 
-### 📺 Latest TIKTOK Videos
-
 <!-- BEGIN YOUTUBE-CARDS -->
-[![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "The Making of GNU: The World's First Open-Source Software")]
-[![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=291 "AI bots were given freedom in a virtual city…")]
-[![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Elon Musk is building TruthGPT…")]
-[![Don't sleep on Nvidia.](https://ytcards.demolab.com/?id=dgmQ-IAANAc&title=Don%27t+sleep+on+Nvidia.&lang=en&timestamp=1681909225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=482 "Don't sleep on Nvidia.")]
-[![These AI TOOLS will help you CODE BETTER](https://ytcards.demolab.com/?id=jArtVVbYGKk&title=These+AI+TOOLS+will+help+you+CODE+BETTER&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "These AI TOOLS will help you CODE BETTER")]
-[![AI Just Got Crazy - Things Will Never Be The Same](https://ytcards.demolab.com/?id=4_frwLFlOt8&title=AI+Just+Got+Crazy+-+Things+Will+Never+Be+The+Same&lang=en&timestamp=1680786003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "AI Just Got Crazy - Things Will Never Be The Same")]
+[![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "The Making of GNU: The World's First Open-Source Software")](https://www.tiktok.com/@code.1001/video/7235749467322912005?is_from_webapp=1&sender_device=pc&web_id=7168843359170692614)
+[![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=291 "AI bots were given freedom in a virtual city…")](https://www.tiktok.com/@code.1001/video/7234669300324322566?is_from_webapp=1&sender_device=pc&web_id=7168843359170692614)
+[![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Elon Musk is building TruthGPT…")](https://www.tiktok.com/@code.1001/video/7235683559003000069?is_from_webapp=1&sender_device=pc&web_id=7168843359170692614)
 <!-- END YOUTUBE-CARDS -->
-
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
