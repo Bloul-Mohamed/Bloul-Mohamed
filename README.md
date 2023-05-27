@@ -31,23 +31,23 @@
 **`🇩🇿🇵🇸🇩🇿🇵🇸A am Python developer from Algeria🇩🇿🇵🇸🇩🇿`** 
 
 
-- **`🔭 I’m currently working on **Codezilla cours**`** 
+- **`🔭 I’m currently working on Codezilla cours`** 
 
-- **`🌱 I’m currently learning **Python**`** 
+- **`🌱 I’m currently learning Python`** 
 
-- **`👯 I’m looking to collaborate on **App mobile**`** 
+- **`👯 I’m looking to collaborate on App mobile`** 
 
-- **`🤝 I’m looking for help with **learn ui/ux design**`** 
+- **`🤝 I’m looking for help with learn ui/ux design`** 
 
-- **`👨‍💻 All of my projects are available at [Github](Github)`** 
+- **`👨‍💻 All of my projects are available at (Github)`** 
 
-- **`💬 Ask me about **python solving**`** 
+- **`💬 Ask me about python solving`** 
 
-- **`📫 How to reach me **Instegram,Facebook,Tiktok**`** 
+- **`📫 How to reach me Instegram,Facebook,Tiktok`** 
 
-- **`📄 Know about my experiences in **cours codezilla**`** 
+- **`📄 Know about my experiences in cours codezilla`** 
 
-- **`⚡ Fun fact **I Think I'm Funny 😅😅**`** 
+- **`⚡ Fun fact I Think I'm Funny 😅😅`** 
 **`Connect with me (Developer)`**
 
 <p align="left">
