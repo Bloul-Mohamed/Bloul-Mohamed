@@ -26,7 +26,11 @@
 
 # **`🇵🇸🇩🇿Hi👋,I'm Mohamed🇵🇸🇩🇿`** 
 
-<img align=“right” alt=“coding” width=“1000” src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
+</p>
+
+
 
 # **`🇵🇸🇩🇿A am Python developer from Algeria🇵🇸🇩🇿`** 
 
@@ -87,3 +91,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikodz&show_icons=true&locale=en" alt="hikodz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hikodz&" alt="hikodz" /></p>
+<img align=“right” alt=“coding” width=“1000” src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
