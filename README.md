@@ -37,6 +37,12 @@
 
 - **`👯 I’m looking to collaborate on App mobile`** 
 
+<p>
+    <img src="https://www.dishalive.com/assets/oi/2.gif" align="right" alt="GIF" width="320px">
+  <!--https://www.dishalive.com/assets/oi/2.gif https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif https://valesh.dev/images/coder.gif-->
+</p>
+
+
 - **`🤝 I’m looking for help with learn ui/ux design`** 
 
 - **`👨‍💻 All of my projects are available at (Github)`** 
@@ -81,5 +87,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikodz&show_icons=true&locale=en" alt="hikodz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hikodz&" alt="hikodz" /></p>
-
- 
