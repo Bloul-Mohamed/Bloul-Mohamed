@@ -27,7 +27,7 @@
 # **`🇵🇸🇩🇿Hi👋,I'm Mohamed🇵🇸🇩🇿`** 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZxS1rtJ3miiBpeh0Hk/giphy.gif" alt="Imagen redonda" width="150px">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
 </p>
 
 
@@ -41,7 +41,7 @@
 - **`👯 I’m looking to collaborate on App mobile`** 
 
 <p>
-    <img src="https://media.giphy.com/media/p35GY4YZXKlJC/giphy.gif" align="right" alt="GIF" width="600px">
+    <img src="https://www.dishalive.com/assets/oi/2.gif" align="right" alt="GIF" width="600px">
   <!--https://www.dishalive.com/assets/oi/2.gif https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif https://valesh.dev/images/coder.gif-->
 </p>
 
