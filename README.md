@@ -85,24 +85,7 @@
 </p>
 <br />
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
-
-
-- [C#]:  ![Lenguaje 1](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
-- [C++]:  ![Lenguaje 2](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
-- [HTML/CSS]:  ![Lenguaje 3](https://img.shields.io/badge/Nivel-Avanzado-brightgreen)
-- [JS]:  ![Lenguaje 4](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
-- [SQL Server]:  ![Lenguaje 5](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
-- [PHP]:  ![Lenguaje 6](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
-- [Python]:  ![Lenguaje 7](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
--->
-#
-
-<br>
 
 
 
