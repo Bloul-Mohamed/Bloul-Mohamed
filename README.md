@@ -41,7 +41,7 @@
 - **`👯 I’m looking to collaborate on App mobile`** 
 
 <p>
-    <img src="https://www.dishalive.com/assets/oi/2.gif" align="right" alt="GIF" width="320px">
+    <img src="https://media.giphy.com/media/p35GY4YZXKlJC/giphy.gif" align="right" alt="GIF" width="600px">
   <!--https://www.dishalive.com/assets/oi/2.gif https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif https://valesh.dev/images/coder.gif-->
 </p>
 
@@ -94,4 +94,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikodz&show_icons=true&locale=en" alt="hikodz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hikodz&" alt="hikodz" /></p>
-<img align=“right” alt=“coding” width=“1000” src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
