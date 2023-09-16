@@ -37,11 +37,11 @@ a>
 
 # **`🇵🇸🇩🇿A am Python developer from Algeria🇵🇸🇩🇿`** 
 ## 🚀 About me!
-- **`🔭 I’m currently working on Codezilla cours`** 
+**`🔭 I’m currently working on Codezilla cours`** 
 
-- **`🌱 I’m currently learning Python`** 
+**`🌱 I’m currently learning Python`** 
 
-- **`👯 I’m looking to collaborate on App mobile`** 
+**`👯 I’m looking to collaborate on App mobile`** 
 
 <p>
     <img src="https://www.dishalive.com/assets/oi/2.gif" align="right" alt="GIF" width="600px">
