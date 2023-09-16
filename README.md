@@ -3,7 +3,7 @@
 
 
 #   **`🇵🇸Mohamed Rida🇩🇿`**
-
+[![GitHub followers](https://img.shields.io/github/followers/hikodz?label=Github%20Followers&style=for-the-badge)](https://github.com/hikodz)
 ![](https://komarev.com/ghpvc/?username=hikodz&color=brightgreen&style=for-the-badge)
 
 **`Digital Craftsman (Developer)`**
