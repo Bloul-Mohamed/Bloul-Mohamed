@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+🇵🇸I'm+Mohamed+Rida🇩🇿;" />
 </h1>
 
-#   **`🇵🇸Mohamed Rida🇩🇿`**
 [![GitHub followers](https://img.shields.io/github/followers/hikodz?label=Github%20Followers&style=for-the-badge)](https://github.com/hikodz)
 ![](https://komarev.com/ghpvc/?username=hikodz&color=brightgreen&style=for-the-badge)
 
