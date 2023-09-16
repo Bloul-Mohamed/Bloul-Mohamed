@@ -6,8 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/hikodz?label=Github%20Followers&style=for-the-badge)](https://github.com/hikodz)
 ![](https://komarev.com/ghpvc/?username=hikodz&color=brightgreen&style=for-the-badge)
 
-**`Digital Craftsman (Developer)`**
- <p align="left">
+
+ <p align="center">
       <a href="mailto:bloulmohamed2002@gmail.com">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href="https://discord.gg/z3ZjQhX7">
@@ -17,9 +17,8 @@
       <a href="https://instagram.com/hiko_dz">
          <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://www.tiktok.com/@code.1001">
-         <img alt="followers" title="Follow me on TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-      <a href="https://github.com/hikodz?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hikodz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></
+a>
       <a href="https://github.com/hikodz?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hikodz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       
