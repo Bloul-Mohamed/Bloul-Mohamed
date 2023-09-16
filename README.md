@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="150"/>
 
 
 #   **`🇵🇸Mohamed Rida🇩🇿`**
