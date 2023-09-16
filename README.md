@@ -1,10 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="150"/>
 
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+🇵🇸I'm+Mohamed+Rida🇩🇿;" />
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=30&pause=1000&color=1D2EF7&background=FF60F100&center=true&vCenter=true&width=435&lines=Hi+There!+👋;+🇵🇸I'm+Mohamed+Rida🇩🇿" alt="Typing SVG" /></a>
 
 [![GitHub followers](https://img.shields.io/github/followers/hikodz?label=Github%20Followers&style=for-the-badge)](https://github.com/hikodz)
 ![](https://komarev.com/ghpvc/?username=hikodz&color=brightgreen&style=for-the-badge)
@@ -30,19 +27,15 @@ a>
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🇵🇸🇩🇿Hi👋,I'm+HIKO🇵🇸🇩🇿;" />
-</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Foldit&size=32&pause=1000&color=1D2EF7&background=FF60F100&center=true&vCenter=true&width=435&lines=🇵🇸🇩🇿Hi👋,I'm+HIKO🇵🇸🇩🇿" alt="Typing SVG" /></a>
 
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
 </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Python+developer+from+Algeria;" />
-</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=30&pause=1000&color=1D2EF7&background=FF60F100&center=true&vCenter=true&width=435&lines=Python+developer" alt="Typing SVG" /></a>
 
 ## 🚀 About me!
 **`🔭 I’m currently working on Codezilla cours`** 
