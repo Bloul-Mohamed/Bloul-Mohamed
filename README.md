@@ -80,8 +80,8 @@ a>
 
 **`Connect with me`**
 
-<p align="left">
-<p align="left">
+
+<p align="center">
       <a href="https://linktr.ee/code.1001">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href="https://linktr.ee/code.1001">
