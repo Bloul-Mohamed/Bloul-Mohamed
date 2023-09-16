@@ -30,15 +30,20 @@ a>
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-# **`🇵🇸🇩🇿Hi👋,I'm Mohamed🇵🇸🇩🇿`** 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🇵🇸🇩🇿Hi👋,I'm+HIKO🇵🇸🇩🇿;" />
+</h1>
+
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
 </p>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Python+developer+from+Algeria;" />
+</h1>
 
 
-# **`🇵🇸🇩🇿A am Python developer from Algeria🇵🇸🇩🇿`** 
 ## 🚀 About me!
 **`🔭 I’m currently working on Codezilla cours`** 
 
