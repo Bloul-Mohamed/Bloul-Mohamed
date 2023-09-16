@@ -4,6 +4,8 @@
 
 #   **`🇵🇸Mohamed Rida🇩🇿`**
 
+![](https://komarev.com/ghpvc/?username=hikodz&color=brightgreen&style=for-the-badge)
+
 **`Digital Craftsman (Developer)`**
  <p align="left">
       <a href="mailto:bloulmohamed2002@gmail.com">
