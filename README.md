@@ -35,7 +35,7 @@ a>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=30&pause=1000&color=1D2EF7&background=FF60F100&center=true&vCenter=true&width=435&lines=Python+developer+junior" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=30&pause=1000&color=1D2EF7&background=FF60F100&center=true&vCenter=true&width=435&lines=Python+Junior" alt="Typing SVG" /></a>
 
 ## 🚀 About me!
 **`🔭 I’m currently working on Codezilla cours`** 
