@@ -79,7 +79,7 @@ a>
 
 
 <p align="center">
-      <a href="https://linktr.ee/code.1001">
+      <a href="mailto:bloulmohamed2002@gmail.com">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href="https://wa.me/qr/6KN6H35KHVIOM1">
          <img alt="followers" title="Follow me on WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
