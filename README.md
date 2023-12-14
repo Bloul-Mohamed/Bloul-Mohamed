@@ -10,7 +10,7 @@
  <p align="center">
       <a href="mailto:m.bloul.inf@lagh-univ.dz">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="https://discord.gg/z3ZjQhX7">
+      <a href="https://discord.gg/563971987144310796">
          <img alt="followers" title="Follow me on Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
       <a href="https://www.facebook.com/moh.mohamede.7">
          <img alt="followers" title="Follow me on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
