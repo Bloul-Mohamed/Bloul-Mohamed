@@ -89,7 +89,6 @@ a>
          <img alt="followers" title="Follow me on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
       <a href="https://instagram.com/hiko_dz">
          <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://www.tiktok.com/@code.1001">
-         <img alt="followers" title="Follow me on TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+
    
    </p>
