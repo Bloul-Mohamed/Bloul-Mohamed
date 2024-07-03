@@ -74,6 +74,7 @@ a>
 <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/>
 <img width="48" height="48" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
 <img width="48" height="48" src="https://img.icons8.com/clouds/100/windows-10.png" alt="windows-10"/>
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="amazon-web-services"/>
 
 **`Connect with me`**
 
