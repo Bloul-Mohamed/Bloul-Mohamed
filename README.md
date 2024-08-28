@@ -10,7 +10,7 @@
  <p align="center">
       <a href="mailto:m.bloul.inf@lagh-univ.dz">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="https://discord.gg/563971987144310796">
+      <a href="[https://discord.gg/563971987144310796](https://bit.ly/3Wzq1IN)">
          <img alt="followers" title="Follow me on Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
       <a href="https://instagram.com/hiko_dz">
          <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
