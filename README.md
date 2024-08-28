@@ -69,20 +69,3 @@
 <img width="48" height="48" src="https://img.icons8.com/clouds/100/windows-10.png" alt="windows-10"/>
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="amazon-web-services"/>
 
-**`Connect with me`**
-
-
-<p align="center">
-      <a href="mailto:m.bloul.inf@lagh-univ.dz ">
-         <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="https://wa.me/qr/6KN6H35KHVIOM1">
-         <img alt="followers" title="Follow me on WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-      <a href="https://discord.gg/z3ZjQhX7">
-         <img alt="followers" title="Follow me on Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-      <a href="https://www.facebook.com/moh.mohamede.7">
-         <img alt="followers" title="Follow me on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-      <a href="https://instagram.com/hiko_dz">
-         <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-   
-   </p>
