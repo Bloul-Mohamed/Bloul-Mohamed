@@ -103,8 +103,18 @@ High-performance data processing system with real-time analytics capabilities.
 - 📫 How to reach me: Use the social links above
 
 ## 🐍 Contribution Graph
+<!-- Contribution Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BM-ENG/BM-ENG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BM-ENG/BM-ENG/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BM-ENG/BM-ENG/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
