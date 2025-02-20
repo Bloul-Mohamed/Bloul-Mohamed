@@ -55,6 +55,45 @@ AWS-based solution for managing cloud resources with cost optimization features.
 ### Data Processing Pipeline
 High-performance data processing system with real-time analytics capabilities.
 
+### 🧰 Languages and Tools
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://laravel.com/img/logotype.min.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+
+<br />
+   <br/>
+
+
+
+
+## Follow My Journey
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/bloul-mohamed-387692297/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=dev.to)]()
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode)]()
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode)]()
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-FA5833?logo=bootstrap)]()
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank)]()
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-alinouraldin)]()
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks)]()
+[![Goodreads](https://img.shields.io/badge/Goodreads-21B352?logo=goodreads)]()
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp)]()
+[![Showwcase](https://img.shields.io/badge/Showwcase-blue)]()
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium)]()
+[![Substack](https://img.shields.io/badge/Substack-51C7EF?logo=substack)]()
+[![VJudge](https://img.shields.io/badge/VJudge-1E90FF?logo=vjudge)]()
+
+
+
+
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bloul-Mohamed&theme=dark)](https://git.io/streak-stats)
 
